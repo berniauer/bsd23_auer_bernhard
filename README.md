@@ -30,7 +30,7 @@ Geben Sie immer nur einen Buchstaben ein -> Case Insensitive
 Falls Sie interesse haben Teil dieses Projektes zu werden, melden Sie sich bitte bei mir.
 
   - [Exercise1](exercise1.md)
-  - Exercise2
+  - [Exercise2](exercise2.md)
   - Exercise3
   - Exercise4
   - Exercise5

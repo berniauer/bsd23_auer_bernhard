@@ -4,28 +4,37 @@ In dieser Übung geht es darum, GIT kennenzulernen und zu verwenden. Wir haben u
 
 ## Beschreibung der GIT Befehle:
 
--git config
-    -Konfiguration auf allen Ebenen je nach paramter
-        1. --global
-        2. --local
-        3. --system
--git init
-    -Initialisiert ein neues Git-Repo im aktuellen Verzeichnis
-    -Alle notwendigen Metadaten werden erstellt
--git commit
-    -Speicher Änderungen, welche bereits im Staging Bereich sind (nach add)
-    -Lokal
--git status
-    -Zeigt den Zustand des Arbeitsverzeichnisses und des Staging-Bereichs
-    -Lokal
--git add
-    -Fügt Änderungen aus dem Arbeitsverzecihnis zum Staging-Bereich hinzu
-    -Lokal im Staging Bereich
--git log
-    -Zeigt die Historie der Commits im aktuellen Repo an
--git diff
-    -zeigt Unterschiede der Commits an, Arbeitsverzeichnis und Staging-Bereich
--git pull
-    -holt Ändeungen vom, Remote Repo
--git push
-    -Überträgt commits auf das Remote Repo
+- **git config**
+  - Konfiguration auf allen Ebenen je nach Parameter:
+    1. `--global`: Konfiguration für alle Repositories des Benutzers.
+    2. `--local`: Konfiguration spezifisch für das aktuelle Repository.
+    3. `--system`: Konfiguration für alle Benutzer auf dem System.
+
+- **git init**
+  - Initialisiert ein neues Git-Repository im aktuellen Verzeichnis.
+  - Alle notwendigen Metadaten werden erstellt.
+
+- **git commit**
+  - Speichert Änderungen, die bereits im Staging-Bereich sind (nach `git add`).
+  - Lokal gespeichert.
+
+- **git status**
+  - Zeigt den Zustand des Arbeitsverzeichnisses und des Staging-Bereichs an.
+  - Lokal ausgeführt.
+
+- **git add**
+  - Fügt Änderungen aus dem Arbeitsverzeichnis zum Staging-Bereich hinzu.
+  - Änderungen werden lokal im Staging-Bereich vorgenommen.
+
+- **git log**
+  - Zeigt die Historie der Commits im aktuellen Repository an.
+
+- **git diff**
+  - Zeigt Unterschiede zwischen Commits, Arbeitsverzeichnis und Staging-Bereich an.
+
+- **git pull**
+  - Holt Änderungen vom Remote-Repository und integriert sie lokal.
+
+- **git push**
+  - Überträgt Commits vom lokalen Repository auf das Remote-Repository.
+
