@@ -22,8 +22,11 @@ Geben Sie immer nur einen Buchstaben ein -> Case Insensitive
 
 ## Kontaktdaten
 
-    -Author: Bernhard Auer
-    -Email: auer_bernhard@outlook.com
+    - Author: Bernhard Auer
+    - Email-Hochschule: 52306591@edu.campus02.at
+    - Email-privat: auer_bernhard@outlook.com
+    - [Github](https://github.com/berniauer)
+    - [Campus02 Homepage](https://www.campus02.at/)
 
 ### Mitarbeit
 
