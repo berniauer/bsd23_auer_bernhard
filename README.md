@@ -13,20 +13,20 @@ Starten Sie das Programm über die CLI wie folgt:
 
 Das Text File muss folgende Bedingungen erfüllen:
 
-    1. Nur ein Wort pro Zeile
-    2. Nur Buchstaben
-        - Case insensitve
-    3. Es dürfen keine Leerzeichen vor oder nach den Wörten enthalten sein
+1. Nur ein Wort pro Zeile
+2. Nur Buchstaben
+    - Case insensitve
+3. Es dürfen keine Leerzeichen vor oder nach den Wörten enthalten sein
 
 Geben Sie immer nur einen Buchstaben ein -> Case Insensitive
 
 ## Kontaktdaten
 
-    - Author: Bernhard Auer
-    - Email-Hochschule: 52306591@edu.campus02.at
-    - Email-privat: auer_bernhard@outlook.com
-    - [Github](https://github.com/berniauer)
-    - [Campus02 Homepage](https://www.campus02.at/)
+- Author: Bernhard Auer
+- Email-Hochschule: 52306591@edu.campus02.at
+- Email-privat: auer_bernhard@outlook.com
+- [Github](https://github.com/berniauer)
+- [Campus02 Homepage](https://www.campus02.at/)
 
 ### Mitarbeit
 
