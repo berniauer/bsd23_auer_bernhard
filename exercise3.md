@@ -41,4 +41,8 @@ In dieser Übung geht es darum, ein Java-Projekt mit Hilfe von Maven zu erstelle
 
 ![Build und Ausführung](resources/images/ex3_3.png)
 
+#### Versions
+
+![Java und Maven Versions](resources/images/mave_java_versions.png)
+
 
