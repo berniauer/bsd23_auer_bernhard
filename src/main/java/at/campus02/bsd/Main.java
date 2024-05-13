@@ -16,6 +16,7 @@ public class Main {
         } catch (IllegalArgumentException e) {
             System.out.println("Error: " + e.getMessage());
         }
+        System.out.println("Bernhard Auer");
     }
 
 }

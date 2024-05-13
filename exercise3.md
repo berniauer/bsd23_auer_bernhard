@@ -37,4 +37,8 @@ In dieser Übung geht es darum, ein Java-Projekt mit Hilfe von Maven zu erstelle
 
 ![Testausführung](resources/images/ex3_2.png)
 
+#### Erfolgreicher Build und Ausführung
+
+![Build und Ausführung](resources/images/ex3_3.png)
+
 
