@@ -9,6 +9,7 @@ public class Main {
         System.out.println("Subtraction: " + calc.minus(5, 3));
         System.out.println("Multiplication: " + calc.multiply(5, 3));
         System.out.println("Division: " + calc.divide(5, 3));
+        System.out.println("Factorial: " + calc.factorial(6));
 
         // test division by zero
         try {

@@ -27,4 +27,9 @@ public class Calculator {
         }
         return number1 / number2;
     }
+
+    public long factorial(int number){
+
+        return 0;
+    }
 }

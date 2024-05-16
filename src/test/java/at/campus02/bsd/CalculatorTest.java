@@ -92,5 +92,20 @@ public class CalculatorTest {
         assertEquals("Divider cannot be zero", exception.getMessage());
     }
 
+    @Test
+    public void testFactorialPositiveNumber() {
+        assertEquals(120, calculator.factorial(5));
+    }
+
+    @Test
+    public void testFactorialNegativeNumber() {
+        assertEquals(0, calculator.factorial(0));
+    }
+
+    @Test
+    public void testFactorialZero() {
+        assertEquals(1, calculator.factorial(0));
+    }
+
 
 }
