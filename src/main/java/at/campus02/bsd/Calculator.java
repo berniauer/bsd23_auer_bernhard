@@ -29,7 +29,7 @@ public class Calculator {
     }
 
     public long factorial(int number){
-
-        return 0;
+        if(number < 0) return 0;
+        return number > 1 ?  number * factorial(number - 1) :  1;
     }
 }

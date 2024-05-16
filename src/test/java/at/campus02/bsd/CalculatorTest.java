@@ -99,7 +99,7 @@ public class CalculatorTest {
 
     @Test
     public void testFactorialNegativeNumber() {
-        assertEquals(0, calculator.factorial(0));
+        assertEquals(0, calculator.factorial(-5));
     }
 
     @Test
