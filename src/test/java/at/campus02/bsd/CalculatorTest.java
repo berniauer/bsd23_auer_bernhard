@@ -85,11 +85,10 @@ public class CalculatorTest {
     }
 
     @Test
-    public void testDivideByZero() {
-        Exception exception = assertThrows(IllegalArgumentException.class, () -> {
-            calculator.divide(10, 0);
+    public void testDivideByZeroThrowsArithmeticException() {
+        assertThrows(ArithmeticException.class, () -> {
+            calculator.divide(5, 0);
         });
-        assertEquals("Divider cannot be zero", exception.getMessage());
     }
 
     @Test

@@ -36,7 +36,14 @@ Falls Sie interesse haben Teil dieses Projektes zu werden, melden Sie sich bitte
   - [Exercise2](exercise2.md)
   - [Exercise3](exercise3.md)
   - [Exercise4](exercise4.md)
-  - Exercise5
+  - [Exercise5](exercise5.md)
   - Exercise6
+
+#### Konfigurationstamplete
+
+Ich habe Log4j2 zum logen und eine dazugehörige log4j2.xml Konfigurationsdatei.
+Anbei finden Sie ein template
+
+ - [log4j2.xml.template](log4j2.xml.template)
   
 
