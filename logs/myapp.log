@@ -62,3 +62,150 @@
 2024-06-06 19:53:42.842 [main] DEBUG at.campus02.bsd.Calculator - Multiplication called with parameters: number1 = 5.0, number2 = 0.0
 2024-06-06 19:53:42.843 [main] DEBUG at.campus02.bsd.Calculator - Multiplication called with parameters: number1 = 5.0, number2 = 3.0
 2024-06-06 19:53:42.845 [main] DEBUG at.campus02.bsd.Calculator - Division called with parameters: number1 = 10.0, number2 = -5.0
+2024-06-30 16:13:45.811 [main] DEBUG at.campus02.bsd.Calculator - Division called with parameters: number1 = 10.0, number2 = 1.0
+2024-06-30 16:13:45.858 [main] DEBUG at.campus02.bsd.Calculator - Subtraction called with parameters: number1 = 5.0, number2 = 3.0
+2024-06-30 16:13:45.863 [main] DEBUG at.campus02.bsd.Calculator - Multiplication called with parameters: number1 = -5.0, number2 = -3.0
+2024-06-30 16:13:45.868 [main] DEBUG at.campus02.bsd.Calculator - Subtraction called with parameters: number1 = -5.0, number2 = -3.0
+2024-06-30 16:13:45.874 [main] DEBUG at.campus02.bsd.Calculator - Factorial called with parameter: number = 0
+2024-06-30 16:13:45.879 [main] DEBUG at.campus02.bsd.Calculator - Addition called with parameters: number1 = 5.0, number2 = 0.0
+2024-06-30 16:13:45.885 [main] DEBUG at.campus02.bsd.Calculator - Factorial called with parameter: number = -5
+2024-06-30 16:13:45.890 [main] DEBUG at.campus02.bsd.Calculator - Factorial called with parameter: number = 5
+2024-06-30 16:13:45.890 [main] DEBUG at.campus02.bsd.Calculator - Factorial called with parameter: number = 4
+2024-06-30 16:13:45.891 [main] DEBUG at.campus02.bsd.Calculator - Factorial called with parameter: number = 3
+2024-06-30 16:13:45.891 [main] DEBUG at.campus02.bsd.Calculator - Factorial called with parameter: number = 2
+2024-06-30 16:13:45.891 [main] DEBUG at.campus02.bsd.Calculator - Factorial called with parameter: number = 1
+2024-06-30 16:13:45.893 [main] DEBUG at.campus02.bsd.Calculator - Addition called with parameters: number1 = 5.0, number2 = 3.0
+2024-06-30 16:13:45.897 [main] DEBUG at.campus02.bsd.Calculator - Addition called with parameters: number1 = -5.0, number2 = -3.0
+2024-06-30 16:13:45.902 [main] ERROR at.campus02.bsd.Calculator - Attempted to divide by zero with parameters: number1 = 5.0, number2 = 0.0
+2024-06-30 16:13:45.905 [main] DEBUG at.campus02.bsd.Calculator - Subtraction called with parameters: number1 = 5.0, number2 = 0.0
+2024-06-30 16:13:45.909 [main] DEBUG at.campus02.bsd.Calculator - Division called with parameters: number1 = 0.0, number2 = 5.0
+2024-06-30 16:13:45.913 [main] DEBUG at.campus02.bsd.Calculator - Division called with parameters: number1 = -10.0, number2 = 5.0
+2024-06-30 16:13:45.916 [main] DEBUG at.campus02.bsd.Calculator - Multiplication called with parameters: number1 = 5.0, number2 = 0.0
+2024-06-30 16:13:45.920 [main] DEBUG at.campus02.bsd.Calculator - Multiplication called with parameters: number1 = 5.0, number2 = 3.0
+2024-06-30 16:13:45.924 [main] DEBUG at.campus02.bsd.Calculator - Division called with parameters: number1 = 10.0, number2 = -5.0
+2024-06-30 16:32:13.332 [main] DEBUG at.campus02.bsd.Calculator - Division called with parameters: number1 = 10.0, number2 = 1.0
+2024-06-30 16:32:13.374 [main] DEBUG at.campus02.bsd.Calculator - Subtraction called with parameters: number1 = 5.0, number2 = 3.0
+2024-06-30 16:32:13.378 [main] DEBUG at.campus02.bsd.Calculator - Multiplication called with parameters: number1 = -5.0, number2 = -3.0
+2024-06-30 16:32:13.386 [main] DEBUG at.campus02.bsd.Calculator - Subtraction called with parameters: number1 = -5.0, number2 = -3.0
+2024-06-30 16:32:13.394 [main] DEBUG at.campus02.bsd.Calculator - Factorial called with parameter: number = 0
+2024-06-30 16:32:13.403 [main] DEBUG at.campus02.bsd.Calculator - Addition called with parameters: number1 = 5.0, number2 = 0.0
+2024-06-30 16:32:13.408 [main] DEBUG at.campus02.bsd.Calculator - Factorial called with parameter: number = -5
+2024-06-30 16:32:13.412 [main] DEBUG at.campus02.bsd.Calculator - Factorial called with parameter: number = 5
+2024-06-30 16:32:13.412 [main] DEBUG at.campus02.bsd.Calculator - Factorial called with parameter: number = 4
+2024-06-30 16:32:13.413 [main] DEBUG at.campus02.bsd.Calculator - Factorial called with parameter: number = 3
+2024-06-30 16:32:13.413 [main] DEBUG at.campus02.bsd.Calculator - Factorial called with parameter: number = 2
+2024-06-30 16:32:13.413 [main] DEBUG at.campus02.bsd.Calculator - Factorial called with parameter: number = 1
+2024-06-30 16:32:13.415 [main] DEBUG at.campus02.bsd.Calculator - Addition called with parameters: number1 = 5.0, number2 = 3.0
+2024-06-30 16:32:13.423 [main] DEBUG at.campus02.bsd.Calculator - Addition called with parameters: number1 = -5.0, number2 = -3.0
+2024-06-30 16:32:13.429 [main] ERROR at.campus02.bsd.Calculator - Attempted to divide by zero with parameters: number1 = 5.0, number2 = 0.0
+2024-06-30 16:32:13.431 [main] DEBUG at.campus02.bsd.Calculator - Subtraction called with parameters: number1 = 5.0, number2 = 0.0
+2024-06-30 16:32:13.436 [main] DEBUG at.campus02.bsd.Calculator - Division called with parameters: number1 = 0.0, number2 = 5.0
+2024-06-30 16:32:13.442 [main] DEBUG at.campus02.bsd.Calculator - Division called with parameters: number1 = -10.0, number2 = 5.0
+2024-06-30 16:32:13.444 [main] DEBUG at.campus02.bsd.Calculator - Multiplication called with parameters: number1 = 5.0, number2 = 0.0
+2024-06-30 16:32:13.448 [main] DEBUG at.campus02.bsd.Calculator - Multiplication called with parameters: number1 = 5.0, number2 = 3.0
+2024-06-30 16:32:13.451 [main] DEBUG at.campus02.bsd.Calculator - Division called with parameters: number1 = 10.0, number2 = -5.0
+2024-06-30 16:36:14.292 [main] DEBUG at.campus02.bsd.Calculator - Division called with parameters: number1 = 10.0, number2 = 1.0
+2024-06-30 16:36:14.318 [main] DEBUG at.campus02.bsd.Calculator - Subtraction called with parameters: number1 = 5.0, number2 = 3.0
+2024-06-30 16:36:14.322 [main] DEBUG at.campus02.bsd.Calculator - Multiplication called with parameters: number1 = -5.0, number2 = -3.0
+2024-06-30 16:36:14.329 [main] DEBUG at.campus02.bsd.Calculator - Subtraction called with parameters: number1 = -5.0, number2 = -3.0
+2024-06-30 16:36:14.334 [main] DEBUG at.campus02.bsd.Calculator - Factorial called with parameter: number = 0
+2024-06-30 16:36:14.337 [main] DEBUG at.campus02.bsd.Calculator - Addition called with parameters: number1 = 5.0, number2 = 0.0
+2024-06-30 16:36:14.341 [main] DEBUG at.campus02.bsd.Calculator - Factorial called with parameter: number = -5
+2024-06-30 16:36:14.344 [main] DEBUG at.campus02.bsd.Calculator - Factorial called with parameter: number = 5
+2024-06-30 16:36:14.345 [main] DEBUG at.campus02.bsd.Calculator - Factorial called with parameter: number = 4
+2024-06-30 16:36:14.346 [main] DEBUG at.campus02.bsd.Calculator - Factorial called with parameter: number = 3
+2024-06-30 16:36:14.346 [main] DEBUG at.campus02.bsd.Calculator - Factorial called with parameter: number = 2
+2024-06-30 16:36:14.346 [main] DEBUG at.campus02.bsd.Calculator - Factorial called with parameter: number = 1
+2024-06-30 16:36:14.349 [main] DEBUG at.campus02.bsd.Calculator - Addition called with parameters: number1 = 5.0, number2 = 3.0
+2024-06-30 16:36:14.354 [main] DEBUG at.campus02.bsd.Calculator - Addition called with parameters: number1 = -5.0, number2 = -3.0
+2024-06-30 16:36:14.358 [main] ERROR at.campus02.bsd.Calculator - Attempted to divide by zero with parameters: number1 = 5.0, number2 = 0.0
+2024-06-30 16:36:14.361 [main] DEBUG at.campus02.bsd.Calculator - Subtraction called with parameters: number1 = 5.0, number2 = 0.0
+2024-06-30 16:36:14.363 [main] DEBUG at.campus02.bsd.Calculator - Division called with parameters: number1 = 0.0, number2 = 5.0
+2024-06-30 16:36:14.366 [main] DEBUG at.campus02.bsd.Calculator - Division called with parameters: number1 = -10.0, number2 = 5.0
+2024-06-30 16:36:14.369 [main] DEBUG at.campus02.bsd.Calculator - Multiplication called with parameters: number1 = 5.0, number2 = 0.0
+2024-06-30 16:36:14.371 [main] DEBUG at.campus02.bsd.Calculator - Multiplication called with parameters: number1 = 5.0, number2 = 3.0
+2024-06-30 16:36:14.375 [main] DEBUG at.campus02.bsd.Calculator - Division called with parameters: number1 = 10.0, number2 = -5.0
+2024-06-30 16:46:17.755 [main] DEBUG at.campus02.bsd.Calculator - Division called with parameters: number1 = 10.0, number2 = 1.0
+2024-06-30 16:46:17.788 [main] DEBUG at.campus02.bsd.Calculator - Subtraction called with parameters: number1 = 5.0, number2 = 3.0
+2024-06-30 16:46:17.791 [main] DEBUG at.campus02.bsd.Calculator - Multiplication called with parameters: number1 = -5.0, number2 = -3.0
+2024-06-30 16:46:17.795 [main] DEBUG at.campus02.bsd.Calculator - Subtraction called with parameters: number1 = -5.0, number2 = -3.0
+2024-06-30 16:46:17.801 [main] DEBUG at.campus02.bsd.Calculator - Factorial called with parameter: number = 0
+2024-06-30 16:46:17.807 [main] DEBUG at.campus02.bsd.Calculator - Addition called with parameters: number1 = 5.0, number2 = 0.0
+2024-06-30 16:46:17.813 [main] DEBUG at.campus02.bsd.Calculator - Factorial called with parameter: number = -5
+2024-06-30 16:46:17.817 [main] DEBUG at.campus02.bsd.Calculator - Factorial called with parameter: number = 5
+2024-06-30 16:46:17.818 [main] DEBUG at.campus02.bsd.Calculator - Factorial called with parameter: number = 4
+2024-06-30 16:46:17.818 [main] DEBUG at.campus02.bsd.Calculator - Factorial called with parameter: number = 3
+2024-06-30 16:46:17.818 [main] DEBUG at.campus02.bsd.Calculator - Factorial called with parameter: number = 2
+2024-06-30 16:46:17.819 [main] DEBUG at.campus02.bsd.Calculator - Factorial called with parameter: number = 1
+2024-06-30 16:46:17.823 [main] DEBUG at.campus02.bsd.Calculator - Addition called with parameters: number1 = 5.0, number2 = 3.0
+2024-06-30 16:46:17.827 [main] DEBUG at.campus02.bsd.Calculator - Addition called with parameters: number1 = -5.0, number2 = -3.0
+2024-06-30 16:46:17.833 [main] ERROR at.campus02.bsd.Calculator - Attempted to divide by zero with parameters: number1 = 5.0, number2 = 0.0
+2024-06-30 16:46:17.837 [main] DEBUG at.campus02.bsd.Calculator - Subtraction called with parameters: number1 = 5.0, number2 = 0.0
+2024-06-30 16:46:17.842 [main] DEBUG at.campus02.bsd.Calculator - Division called with parameters: number1 = 0.0, number2 = 5.0
+2024-06-30 16:46:17.848 [main] DEBUG at.campus02.bsd.Calculator - Division called with parameters: number1 = -10.0, number2 = 5.0
+2024-06-30 16:46:17.852 [main] DEBUG at.campus02.bsd.Calculator - Multiplication called with parameters: number1 = 5.0, number2 = 0.0
+2024-06-30 16:46:17.856 [main] DEBUG at.campus02.bsd.Calculator - Multiplication called with parameters: number1 = 5.0, number2 = 3.0
+2024-06-30 16:46:17.861 [main] DEBUG at.campus02.bsd.Calculator - Division called with parameters: number1 = 10.0, number2 = -5.0
+2024-06-30 16:49:17.180 [main] DEBUG at.campus02.bsd.Calculator - Division called with parameters: number1 = 10.0, number2 = 1.0
+2024-06-30 16:49:17.216 [main] DEBUG at.campus02.bsd.Calculator - Subtraction called with parameters: number1 = 5.0, number2 = 3.0
+2024-06-30 16:49:17.221 [main] DEBUG at.campus02.bsd.Calculator - Multiplication called with parameters: number1 = -5.0, number2 = -3.0
+2024-06-30 16:49:17.225 [main] DEBUG at.campus02.bsd.Calculator - Subtraction called with parameters: number1 = -5.0, number2 = -3.0
+2024-06-30 16:49:17.233 [main] DEBUG at.campus02.bsd.Calculator - Factorial called with parameter: number = 0
+2024-06-30 16:49:17.241 [main] DEBUG at.campus02.bsd.Calculator - Addition called with parameters: number1 = 5.0, number2 = 0.0
+2024-06-30 16:49:17.250 [main] DEBUG at.campus02.bsd.Calculator - Factorial called with parameter: number = -5
+2024-06-30 16:49:17.253 [main] DEBUG at.campus02.bsd.Calculator - Factorial called with parameter: number = 5
+2024-06-30 16:49:17.253 [main] DEBUG at.campus02.bsd.Calculator - Factorial called with parameter: number = 4
+2024-06-30 16:49:17.253 [main] DEBUG at.campus02.bsd.Calculator - Factorial called with parameter: number = 3
+2024-06-30 16:49:17.253 [main] DEBUG at.campus02.bsd.Calculator - Factorial called with parameter: number = 2
+2024-06-30 16:49:17.253 [main] DEBUG at.campus02.bsd.Calculator - Factorial called with parameter: number = 1
+2024-06-30 16:49:17.257 [main] DEBUG at.campus02.bsd.Calculator - Addition called with parameters: number1 = 5.0, number2 = 3.0
+2024-06-30 16:49:17.260 [main] DEBUG at.campus02.bsd.Calculator - Addition called with parameters: number1 = -5.0, number2 = -3.0
+2024-06-30 16:49:17.266 [main] ERROR at.campus02.bsd.Calculator - Attempted to divide by zero with parameters: number1 = 5.0, number2 = 0.0
+2024-06-30 16:49:17.269 [main] DEBUG at.campus02.bsd.Calculator - Subtraction called with parameters: number1 = 5.0, number2 = 0.0
+2024-06-30 16:49:17.272 [main] DEBUG at.campus02.bsd.Calculator - Division called with parameters: number1 = 0.0, number2 = 5.0
+2024-06-30 16:49:17.275 [main] DEBUG at.campus02.bsd.Calculator - Division called with parameters: number1 = -10.0, number2 = 5.0
+2024-06-30 16:49:17.278 [main] DEBUG at.campus02.bsd.Calculator - Multiplication called with parameters: number1 = 5.0, number2 = 0.0
+2024-06-30 16:49:17.281 [main] DEBUG at.campus02.bsd.Calculator - Multiplication called with parameters: number1 = 5.0, number2 = 3.0
+2024-06-30 16:49:17.283 [main] DEBUG at.campus02.bsd.Calculator - Division called with parameters: number1 = 10.0, number2 = -5.0
+2024-06-30 16:53:24.964 [main] DEBUG at.campus02.bsd.Calculator - Division called with parameters: number1 = 10.0, number2 = 1.0
+2024-06-30 16:53:25.005 [main] DEBUG at.campus02.bsd.Calculator - Subtraction called with parameters: number1 = 5.0, number2 = 3.0
+2024-06-30 16:53:25.008 [main] DEBUG at.campus02.bsd.Calculator - Multiplication called with parameters: number1 = -5.0, number2 = -3.0
+2024-06-30 16:53:25.013 [main] DEBUG at.campus02.bsd.Calculator - Subtraction called with parameters: number1 = -5.0, number2 = -3.0
+2024-06-30 16:53:25.018 [main] DEBUG at.campus02.bsd.Calculator - Factorial called with parameter: number = 0
+2024-06-30 16:53:25.029 [main] DEBUG at.campus02.bsd.Calculator - Addition called with parameters: number1 = 5.0, number2 = 0.0
+2024-06-30 16:53:25.034 [main] DEBUG at.campus02.bsd.Calculator - Factorial called with parameter: number = -5
+2024-06-30 16:53:25.041 [main] DEBUG at.campus02.bsd.Calculator - Factorial called with parameter: number = 5
+2024-06-30 16:53:25.041 [main] DEBUG at.campus02.bsd.Calculator - Factorial called with parameter: number = 4
+2024-06-30 16:53:25.042 [main] DEBUG at.campus02.bsd.Calculator - Factorial called with parameter: number = 3
+2024-06-30 16:53:25.042 [main] DEBUG at.campus02.bsd.Calculator - Factorial called with parameter: number = 2
+2024-06-30 16:53:25.043 [main] DEBUG at.campus02.bsd.Calculator - Factorial called with parameter: number = 1
+2024-06-30 16:53:25.048 [main] DEBUG at.campus02.bsd.Calculator - Addition called with parameters: number1 = 5.0, number2 = 3.0
+2024-06-30 16:53:25.052 [main] DEBUG at.campus02.bsd.Calculator - Addition called with parameters: number1 = -5.0, number2 = -3.0
+2024-06-30 16:53:25.060 [main] ERROR at.campus02.bsd.Calculator - Attempted to divide by zero with parameters: number1 = 5.0, number2 = 0.0
+2024-06-30 16:53:25.065 [main] DEBUG at.campus02.bsd.Calculator - Subtraction called with parameters: number1 = 5.0, number2 = 0.0
+2024-06-30 16:53:25.069 [main] DEBUG at.campus02.bsd.Calculator - Division called with parameters: number1 = 0.0, number2 = 5.0
+2024-06-30 16:53:25.074 [main] DEBUG at.campus02.bsd.Calculator - Division called with parameters: number1 = -10.0, number2 = 5.0
+2024-06-30 16:53:25.079 [main] DEBUG at.campus02.bsd.Calculator - Multiplication called with parameters: number1 = 5.0, number2 = 0.0
+2024-06-30 16:53:25.083 [main] DEBUG at.campus02.bsd.Calculator - Multiplication called with parameters: number1 = 5.0, number2 = 3.0
+2024-06-30 16:53:25.087 [main] DEBUG at.campus02.bsd.Calculator - Division called with parameters: number1 = 10.0, number2 = -5.0
+2024-06-30 17:14:50.598 [main] DEBUG at.campus02.bsd.Calculator - Division called with parameters: number1 = 10.0, number2 = 1.0
+2024-06-30 17:14:50.640 [main] DEBUG at.campus02.bsd.Calculator - Subtraction called with parameters: number1 = 5.0, number2 = 3.0
+2024-06-30 17:14:50.646 [main] DEBUG at.campus02.bsd.Calculator - Multiplication called with parameters: number1 = -5.0, number2 = -3.0
+2024-06-30 17:14:50.653 [main] DEBUG at.campus02.bsd.Calculator - Subtraction called with parameters: number1 = -5.0, number2 = -3.0
+2024-06-30 17:14:50.658 [main] DEBUG at.campus02.bsd.Calculator - Factorial called with parameter: number = 0
+2024-06-30 17:14:50.663 [main] DEBUG at.campus02.bsd.Calculator - Addition called with parameters: number1 = 5.0, number2 = 0.0
+2024-06-30 17:14:50.668 [main] DEBUG at.campus02.bsd.Calculator - Factorial called with parameter: number = -5
+2024-06-30 17:14:50.672 [main] DEBUG at.campus02.bsd.Calculator - Factorial called with parameter: number = 5
+2024-06-30 17:14:50.673 [main] DEBUG at.campus02.bsd.Calculator - Factorial called with parameter: number = 4
+2024-06-30 17:14:50.674 [main] DEBUG at.campus02.bsd.Calculator - Factorial called with parameter: number = 3
+2024-06-30 17:14:50.674 [main] DEBUG at.campus02.bsd.Calculator - Factorial called with parameter: number = 2
+2024-06-30 17:14:50.674 [main] DEBUG at.campus02.bsd.Calculator - Factorial called with parameter: number = 1
+2024-06-30 17:14:50.677 [main] DEBUG at.campus02.bsd.Calculator - Addition called with parameters: number1 = 5.0, number2 = 3.0
+2024-06-30 17:14:50.683 [main] DEBUG at.campus02.bsd.Calculator - Addition called with parameters: number1 = -5.0, number2 = -3.0
+2024-06-30 17:14:50.688 [main] ERROR at.campus02.bsd.Calculator - Attempted to divide by zero with parameters: number1 = 5.0, number2 = 0.0
+2024-06-30 17:14:50.692 [main] DEBUG at.campus02.bsd.Calculator - Subtraction called with parameters: number1 = 5.0, number2 = 0.0
+2024-06-30 17:14:50.696 [main] DEBUG at.campus02.bsd.Calculator - Division called with parameters: number1 = 0.0, number2 = 5.0
+2024-06-30 17:14:50.699 [main] DEBUG at.campus02.bsd.Calculator - Division called with parameters: number1 = -10.0, number2 = 5.0
+2024-06-30 17:14:50.703 [main] DEBUG at.campus02.bsd.Calculator - Multiplication called with parameters: number1 = 5.0, number2 = 0.0
+2024-06-30 17:14:50.706 [main] DEBUG at.campus02.bsd.Calculator - Multiplication called with parameters: number1 = 5.0, number2 = 3.0
+2024-06-30 17:14:50.710 [main] DEBUG at.campus02.bsd.Calculator - Division called with parameters: number1 = 10.0, number2 = -5.0
