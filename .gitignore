@@ -42,4 +42,4 @@ build/
 *.html
 .idea
 log4j2.xml
-myapp.log
+*.log
